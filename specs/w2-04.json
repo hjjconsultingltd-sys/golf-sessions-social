@@ -1,0 +1,7 @@
+[
+  {"id": "w2-04-1", "template": "carousel", "size": "portrait", "fields": {"eyebrow": "FORMATS, EXPLAINED · 1 OF 7", "headline": "SINGLES.", "body": "One against one. The simplest match in golf, and the one that decides most Cups.", "page": "1 / 5"}},
+  {"id": "w2-04-2", "template": "carousel", "size": "portrait", "fields": {"dark": true, "eyebrow": "THE RULE", "headline": "ONE BALL EACH.", "body": "Every player plays their own ball. Win the hole, lose it or halve it. The match is decided on holes, not on strokes.", "page": "2 / 5"}},
+  {"id": "w2-04-3", "template": "carousel", "size": "portrait", "fields": {"eyebrow": "THE HANDICAP", "headline": "OFF THE DIFFERENCE.", "body": "Full allowance. The lower handicap plays off scratch and the other player takes the difference, on the stroke index.", "page": "3 / 5"}},
+  {"id": "w2-04-4", "template": "carousel", "size": "portrait", "fields": {"dark": true, "eyebrow": "IN THE APP", "headline": "SHOTS SORTED.", "body": "Enter the handicap index, pick the tee, and every shot lands on the right hole. Course handicaps come off the card you are playing, not off a calculator in the bar.", "page": "4 / 5"}},
+  {"id": "w2-04-5", "template": "carousel", "size": "portrait", "fields": {"eyebrow": "", "headline": "YOUR CUP.\nLIVE.", "body": "Free to build, pay to publish, free to play.", "page": "5 / 5"}}
+]
