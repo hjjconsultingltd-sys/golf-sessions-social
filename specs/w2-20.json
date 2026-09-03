@@ -1,0 +1,14 @@
+[
+  {
+    "id": "w2-20",
+    "template": "photo",
+    "size": "portrait",
+    "fields": {
+      "photo": "twenty-eight.jpg",
+      "photo_height": 0.32,
+      "eyebrow": "THE AGENCY CHALLENGE CUP 2026",
+      "headline": "28 PLAYERS.\n3 DAYS.\n469 POINTS.",
+      "body": "Every card on a phone, every match live, the Cup on the clubhouse TV. Not one argument about the number."
+    }
+  }
+]
