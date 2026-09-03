@@ -6,6 +6,7 @@ on:
     paths:
       - "specs/**"
       - "photos/**"
+      - "uploads/**"
       - "render.py"
   workflow_dispatch:
     inputs:
