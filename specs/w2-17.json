@@ -1,0 +1,14 @@
+[
+  {
+    "id": "w2-17",
+    "template": "photo",
+    "size": "portrait",
+    "fields": {
+      "photo": "cheque.jpg",
+      "crop": "top",
+      "eyebrow": "FOR CHARITIES",
+      "headline": "FREE FOR A CHARITY DAY.",
+      "body": "A registered charity's golf day runs on Golf Sessions for nothing. Ask for a code, build the day, publish it."
+    }
+  }
+]
