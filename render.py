@@ -16,6 +16,7 @@ Usage:
   python3 render.py --all                # render every spec in specs/ whose hash changed (uses out/manifest.json)
   python3 render.py specs/w2-04.json     # render one spec file (an object or a list of objects)
   python3 render.py --demo               # one of everything into out/
+  python3 render.py --uploads            # PUT rendered PNGs to LinkedIn upload URLs listed in uploads/ (also done by --all)
 
 A spec is {"id": "w2-04-1", "template": "carousel", "size": "portrait", "fields": {...}}.
 Output is always out/<id>.png. A spec file may hold one spec or a list of specs (a carousel).
@@ -25,7 +26,7 @@ only on the match template), Big Shoulders Display 900/700 for display, Instrume
 Sans 400/500/600 for everything else, radius 0, no shadows, tabular numerals,
 halves as the ½ glyph, hairlines 1px, panels bleed, text never does, 34/66 split.
 """
-import json, sys, os, asyncio, html, hashlib, glob, urllib.request
+import json, sys, os, asyncio, html, hashlib, glob, urllib.request, urllib.error
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 FONTS = os.path.join(HERE, "fonts")
@@ -339,6 +340,37 @@ def render_all(force=False):
     json.dump(manifest, open(MANIFEST, "w"), indent=1, sort_keys=True)
 
 
+UPLOADS = os.path.join(HERE, "uploads")
+UPLOAD_RESULTS = os.path.join(OUT, "uploads")
+
+
+def process_uploads():
+    """LinkedIn image posts need the PNG bytes PUT to a pre-signed upload URL, which the Zapier sandbox
+    cannot do. The publish run commits uploads/<name>.json = {"png": "w2-04-1", "upload_url": "..."} and
+    this step PUTs out/<png>.png there and writes out/uploads/<name>.json = {"ok": bool, "status": int}."""
+    os.makedirs(UPLOAD_RESULTS, exist_ok=True)
+    for path in sorted(glob.glob(os.path.join(UPLOADS, "*.json"))):
+        name = os.path.splitext(os.path.basename(path))[0]
+        result_path = os.path.join(UPLOAD_RESULTS, name + ".json")
+        if os.path.exists(result_path):
+            continue
+        req = json.load(open(path))
+        png = os.path.join(OUT, req["png"] + ".png")
+        result = {"png": req["png"], "ok": False}
+        try:
+            data = open(png, "rb").read()
+            r = urllib.request.Request(req["upload_url"], data=data, method="PUT",
+                                       headers={"Content-Type": "application/octet-stream"})
+            with urllib.request.urlopen(r, timeout=120) as resp:
+                result.update(ok=resp.status in (200, 201), status=resp.status, bytes=len(data))
+        except urllib.error.HTTPError as e:
+            result.update(status=e.code, error=e.read().decode(errors="replace")[:500])
+        except Exception as e:
+            result.update(error=str(e)[:500])
+        json.dump(result, open(result_path, "w"), indent=1)
+        print(result_path, result)
+
+
 DEMO = [
     {"id": "demo-statement", "template": "statement", "size": "portrait",
      "fields": {"eyebrow": "HOW TO RUN A DAY · 5 OF 6", "headline": "EVERY HOLE COUNTS.", "sub": "One point a hole. 18 points a match. Every card matters."}},
@@ -362,6 +394,9 @@ if __name__ == "__main__":
         asyncio.run(render_many(DEMO))
     elif "--all" in args:
         render_all(force="--force" in args)
+        process_uploads()
+    elif "--uploads" in args:
+        process_uploads()
     else:
         specs = [s for a in args for s in load_specs(a)]
         asyncio.run(render_many(specs))
