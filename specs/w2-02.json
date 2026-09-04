@@ -1,0 +1,18 @@
+[
+  {
+    "id": "w2-02",
+    "template": "match",
+    "size": "square",
+    "fields": {
+      "team_a": "NORTHSIDE",
+      "team_b": "HARBOUR",
+      "score_a": "8.5",
+      "score_b": "6.5",
+      "colour_a": "#1B2A4A",
+      "colour_b": "#7A1F2E",
+      "eyebrow": "DEMO CUP · SESSION 2 · FOURSOMES",
+      "status": "FINAL",
+      "line": "3½ points to win"
+    }
+  }
+]
