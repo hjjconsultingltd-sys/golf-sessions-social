@@ -1,0 +1,59 @@
+[
+  {
+    "id": "w2-05-1",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "FORMATS, EXPLAINED · 2 OF 7",
+      "headline": "FOURBALLS.",
+      "body": "Two against two, four balls in play, and only the best one on each side counts.",
+      "page": "1 / 5"
+    }
+  },
+  {
+    "id": "w2-05-2",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "dark": true,
+      "eyebrow": "THE RULE",
+      "headline": "BEST NET SCORE COUNTS.",
+      "body": "Everyone plays their own ball. On each hole the better net score on each side is the side's score. Lower wins the hole.",
+      "page": "2 / 5"
+    }
+  },
+  {
+    "id": "w2-05-3",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "THE HANDICAP",
+      "headline": "90 PER CENT.",
+      "body": "Each player gets 90% of their course handicap, then shots are given off the lowest in the match. That is the WHS figure, and the app defaults to it.",
+      "page": "3 / 5"
+    }
+  },
+  {
+    "id": "w2-05-4",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "dark": true,
+      "eyebrow": "IN THE APP",
+      "headline": "FOUR SCORES, ONE HOLE.",
+      "body": "Every player's gross goes on the card. The app works out whose ball counts, with each player's own shots on the stroke index, and shows it before the next tee.",
+      "page": "4 / 5"
+    }
+  },
+  {
+    "id": "w2-05-5",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "",
+      "headline": "YOUR CUP.\nLIVE.",
+      "body": "Free to build, pay to publish, free to play.",
+      "page": "5 / 5"
+    }
+  }
+]
