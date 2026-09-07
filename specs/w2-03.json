@@ -1,0 +1,59 @@
+[
+  {
+    "id": "w2-03-1",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "FORMATS, EXPLAINED",
+      "headline": "EVERY HOLE COUNTS.",
+      "body": "The scoring model that changes how a team Cup feels.",
+      "page": "1 / 5"
+    }
+  },
+  {
+    "id": "w2-03-2",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "dark": true,
+      "eyebrow": "THE RULE",
+      "headline": "ONE POINT A HOLE.",
+      "body": "Win the hole, take the point. Halve it, share it. 18 points a match, every match, every session.",
+      "page": "2 / 5"
+    }
+  },
+  {
+    "id": "w2-03-3",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "WHY NOT 2 & 1",
+      "headline": "NOBODY WALKS IN.",
+      "body": "Traditional match play ends when the match is decided. Every hole counts keeps every pair playing to the last green, because the 17th still matters when you are four down.",
+      "page": "3 / 5"
+    }
+  },
+  {
+    "id": "w2-03-4",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "dark": true,
+      "eyebrow": "IN THE APP",
+      "headline": "YOUR CALL.",
+      "body": "Choose every hole counts or traditional match play once, for the whole Cup. Golf Sessions scores either, live, on every phone.",
+      "page": "4 / 5"
+    }
+  },
+  {
+    "id": "w2-03-5",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "",
+      "headline": "YOUR CUP.\nLIVE.",
+      "body": "Free to build, pay to publish, free to play.",
+      "page": "5 / 5"
+    }
+  }
+]
