@@ -1,0 +1,59 @@
+[
+  {
+    "id": "w2-06-1",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "FORMATS, EXPLAINED · 3 OF 7",
+      "headline": "FOURSOMES.",
+      "body": "Two against two, one ball a side. The format that tests a partnership.",
+      "page": "1 / 5"
+    }
+  },
+  {
+    "id": "w2-06-2",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "dark": true,
+      "eyebrow": "THE RULE",
+      "headline": "ALTERNATE SHOTS.",
+      "body": "Partners hit alternate shots with one ball, tee shots included, until it is holed. Miss the green and your partner plays the chip.",
+      "page": "2 / 5"
+    }
+  },
+  {
+    "id": "w2-06-3",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "THE HANDICAP",
+      "headline": "HALF THE PAIR.",
+      "body": "The side plays off half the combined course handicaps, and shots are given off the difference between the two sides.",
+      "page": "3 / 5"
+    }
+  },
+  {
+    "id": "w2-06-4",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "dark": true,
+      "eyebrow": "IN THE APP",
+      "headline": "ONE CARD A SIDE.",
+      "body": "One score a hole for the pair. The blended handicap is worked out once, at the draw, and rounded once, so no side ever carries half a shot.",
+      "page": "4 / 5"
+    }
+  },
+  {
+    "id": "w2-06-5",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "",
+      "headline": "YOUR CUP.\nLIVE.",
+      "body": "Free to build, pay to publish, free to play.",
+      "page": "5 / 5"
+    }
+  }
+]
