@@ -1,0 +1,59 @@
+[
+  {
+    "id": "w2-08-1",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "FORMATS, EXPLAINED · 6 OF 7",
+      "headline": "TEXAS SCRAMBLE.",
+      "body": "The format for the corporate day, the charity day and the pair who have not played since last year.",
+      "page": "1 / 5"
+    }
+  },
+  {
+    "id": "w2-08-2",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "dark": true,
+      "eyebrow": "THE RULE",
+      "headline": "BEST POSITION, EVERY SHOT.",
+      "body": "Both partners play every shot from the best position of the previous one, until the ball is holed. Nobody has a bad hole on their own.",
+      "page": "2 / 5"
+    }
+  },
+  {
+    "id": "w2-08-3",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "THE HANDICAP",
+      "headline": "35 AND 15.",
+      "body": "The side plays off 35% of the lower course handicap plus 15% of the higher, shots off the difference. Change the percentages if your society uses others.",
+      "page": "3 / 5"
+    }
+  },
+  {
+    "id": "w2-08-4",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "dark": true,
+      "eyebrow": "IN THE APP",
+      "headline": "YOUR PERCENTAGES.",
+      "body": "The allowances sit on the session. Change them and the handicaps re-derive on the existing draw without reshuffling the pairings.",
+      "page": "4 / 5"
+    }
+  },
+  {
+    "id": "w2-08-5",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "",
+      "headline": "YOUR CUP.\nLIVE.",
+      "body": "Free to build, pay to publish, free to play.",
+      "page": "5 / 5"
+    }
+  }
+]
