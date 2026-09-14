@@ -1,0 +1,59 @@
+[
+  {
+    "id": "w2-07-1",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "FORMATS, EXPLAINED · 5 OF 7",
+      "headline": "GREENSOMES.",
+      "body": "Foursomes with a second chance off the tee.",
+      "page": "1 / 5"
+    }
+  },
+  {
+    "id": "w2-07-2",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "dark": true,
+      "eyebrow": "THE RULE",
+      "headline": "BOTH DRIVE, THEN PICK.",
+      "body": "Both partners drive, the side chooses the better ball, then alternate shots from there until it is holed.",
+      "page": "2 / 5"
+    }
+  },
+  {
+    "id": "w2-07-3",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "THE HANDICAP",
+      "headline": "60 AND 40.",
+      "body": "The side plays off 60% of the lower course handicap plus 40% of the higher, and shots are given off the difference between the sides.",
+      "page": "3 / 5"
+    }
+  },
+  {
+    "id": "w2-07-4",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "dark": true,
+      "eyebrow": "IN THE APP",
+      "headline": "IN THE CATALOGUE.",
+      "body": "Pick greensomes on any session and the 60/40 blend is applied at the draw. Every setting carries a line saying what it does, so nobody argues about the maths at the turn.",
+      "page": "4 / 5"
+    }
+  },
+  {
+    "id": "w2-07-5",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "",
+      "headline": "YOUR CUP.\nLIVE.",
+      "body": "Free to build, pay to publish, free to play.",
+      "page": "5 / 5"
+    }
+  }
+]
