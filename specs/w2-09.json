@@ -1,0 +1,59 @@
+[
+  {
+    "id": "w2-09-1",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "FORMATS, EXPLAINED · 7 OF 7",
+      "headline": "STABLEFORD.",
+      "body": "Every card its own, and a bad hole costs nothing more than nothing.",
+      "page": "1 / 5"
+    }
+  },
+  {
+    "id": "w2-09-2",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "dark": true,
+      "eyebrow": "THE RULE",
+      "headline": "POINTS, NOT STROKES.",
+      "body": "Two points for a net par, three for a birdie, one for a bogey, nothing worse. Pick up when the hole is gone and walk to the next tee.",
+      "page": "2 / 5"
+    }
+  },
+  {
+    "id": "w2-09-3",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "THE HANDICAP",
+      "headline": "95 PER CENT.",
+      "body": "Each player gets 95% of their course handicap, in full, on the stroke index. There is no difference to play off when every card is its own.",
+      "page": "3 / 5"
+    }
+  },
+  {
+    "id": "w2-09-4",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "dark": true,
+      "eyebrow": "IN THE APP",
+      "headline": "BEST CARDS COUNT.",
+      "body": "Groups of four, two from each team. The best cards from each team are added up and the higher total takes the session. You choose how many count.",
+      "page": "4 / 5"
+    }
+  },
+  {
+    "id": "w2-09-5",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "",
+      "headline": "YOUR CUP.\nLIVE.",
+      "body": "Free to build, pay to publish, free to play.",
+      "page": "5 / 5"
+    }
+  }
+]
