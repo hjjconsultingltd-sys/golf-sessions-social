@@ -1,0 +1,18 @@
+[
+  {
+    "id": "w2-18",
+    "template": "match",
+    "size": "square",
+    "fields": {
+      "team_a": "VALE",
+      "team_b": "RIDGEWAY",
+      "score_a": "12.5",
+      "score_b": "11.5",
+      "colour_a": "#0F4C81",
+      "colour_b": "#B5651D",
+      "eyebrow": "DEMO CUP · SESSION 3 · SINGLES",
+      "status": "LIVE",
+      "line": "Vale need 2 of the last 6 matches"
+    }
+  }
+]
