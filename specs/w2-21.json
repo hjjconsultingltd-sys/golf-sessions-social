@@ -1,0 +1,18 @@
+[
+  {
+    "id": "w2-21",
+    "template": "match",
+    "size": "square",
+    "fields": {
+      "team_a": "MOORLAND",
+      "team_b": "CASTLE",
+      "score_a": "6.5",
+      "score_b": "5.5",
+      "colour_a": "#14402F",
+      "colour_b": "#7E3A6B",
+      "eyebrow": "DEMO CUP · SESSION 2 · FOURBALLS",
+      "status": "LIVE",
+      "line": "Four matches still out"
+    }
+  }
+]
