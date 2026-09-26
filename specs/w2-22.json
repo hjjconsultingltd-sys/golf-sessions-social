@@ -1,0 +1,18 @@
+[
+  {
+    "id": "w2-22",
+    "template": "match",
+    "size": "square",
+    "fields": {
+      "team_a": "MOORLAND",
+      "team_b": "CASTLE",
+      "score_a": "15.5",
+      "score_b": "12.5",
+      "colour_a": "#14402F",
+      "colour_b": "#7E3A6B",
+      "eyebrow": "DEMO CUP · FINAL STANDING",
+      "status": "FINAL",
+      "line": "Moorland take the Cup by 3"
+    }
+  }
+]
