@@ -1,13 +1,12 @@
 [
   {
     "id": "w5-01",
-    "template": "numeral",
+    "template": "statement",
     "size": "portrait",
     "fields": {
-      "number": "718",
-      "eyebrow": "PROOF · THE SCORING ENGINE",
-      "line": "TESTS, ALL PASSING",
-      "body": "Inside them the rollup is checked against an independent oracle over 109,858 random cards, and 30 whole Cups are played through the app's own scoring."
+      "eyebrow": "QUICK MATCH",
+      "headline": "ONE MATCH.\nNO CHARGE.",
+      "sub": "Up to 4 players, any location, scored on the phone hole by hole. Nothing to build, nothing to publish, nothing to pay."
     }
   }
 ]
