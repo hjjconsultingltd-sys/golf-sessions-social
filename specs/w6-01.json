@@ -1,12 +1,59 @@
 [
   {
-    "id": "w6-01",
-    "template": "statement",
+    "id": "w6-01-1",
+    "template": "carousel",
     "size": "portrait",
     "fields": {
-      "eyebrow": "BUILD IN PUBLIC",
-      "headline": "NO SIGNAL.\nSTILL SCORING.",
-      "sub": "Holes queue on the phone and go up when the signal returns. The card opens cold in a blackspot, and a hole the other side has changed is reported, never overwritten."
+      "eyebrow": "FORMATS, EXPLAINED",
+      "headline": "THE NINE-HOLE DAY.",
+      "body": "Not every society day is 18 holes, and not every Cup needs to be.",
+      "page": "1 / 5"
+    }
+  },
+  {
+    "id": "w6-01-2",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "dark": true,
+      "eyebrow": "THE RULE",
+      "headline": "HALF THE HOLES.\nALL THE SCORING.",
+      "body": "A nine-hole session is scored exactly like an eighteen. Same formats, same points, same result at the end.",
+      "page": "2 / 5"
+    }
+  },
+  {
+    "id": "w6-01-3",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "THE HANDICAP",
+      "headline": "NINE-HOLE SHOTS.",
+      "body": "A nine-hole session gets a nine-hole course handicap, off the nine you are playing, then the format's allowance on top.",
+      "page": "3 / 5"
+    }
+  },
+  {
+    "id": "w6-01-4",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "dark": true,
+      "eyebrow": "IN THE APP",
+      "headline": "ONE SETTING.",
+      "body": "Hole count sits on the session with the format and the allowances, so one Cup can hold a nine-hole session and an eighteen-hole one.",
+      "page": "4 / 5"
+    }
+  },
+  {
+    "id": "w6-01-5",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "",
+      "headline": "YOUR CUP.\nLIVE.",
+      "body": "Free to build, pay to publish, free to play.",
+      "page": "5 / 5"
     }
   }
 ]
