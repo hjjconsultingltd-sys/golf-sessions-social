@@ -1,0 +1,18 @@
+[
+  {
+    "id": "w6-03",
+    "template": "match",
+    "size": "square",
+    "fields": {
+      "team_a": "NORTHSIDE",
+      "team_b": "HARBOUR",
+      "score_a": "4.5",
+      "score_b": "4.5",
+      "colour_a": "#1B2A4A",
+      "colour_b": "#7A1F2E",
+      "eyebrow": "DEMO CUP · SESSION 1 · FOURBALLS",
+      "status": "LIVE",
+      "line": "All square with 5 matches out"
+    }
+  }
+]
