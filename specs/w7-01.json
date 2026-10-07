@@ -1,0 +1,59 @@
+[
+  {
+    "id": "w7-01-1",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "FORMATS, EXPLAINED",
+      "headline": "THE TEAM SCRAMBLE.",
+      "body": "Not two against two. The whole team as one side, one ball, one card.",
+      "page": "1 / 5"
+    }
+  },
+  {
+    "id": "w7-01-2",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "dark": true,
+      "eyebrow": "THE RULE",
+      "headline": "ONE SIDE.\nONE BALL.",
+      "body": "Up to 4 players a side, every shot played from the best position of the one before it, until the ball is holed. One score a hole for the team.",
+      "page": "2 / 5"
+    }
+  },
+  {
+    "id": "w7-01-3",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "THE HANDICAP",
+      "headline": "25, 20, 15, 10.",
+      "body": "The side plays off 25% of the lowest course handicap, 20% of the next, 15% of the third and 10% of the fourth, shots off the difference. 30/20/10 for a three, 35/15 for a two.",
+      "page": "3 / 5"
+    }
+  },
+  {
+    "id": "w7-01-4",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "dark": true,
+      "eyebrow": "IN THE APP",
+      "headline": "EACH SIDE ENTERS\nITS OWN.",
+      "body": "Both teams put in their own gross and the hole stays pending until both are in. The draw sends the side out in fours, and a short side still plays.",
+      "page": "4 / 5"
+    }
+  },
+  {
+    "id": "w7-01-5",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "",
+      "headline": "YOUR CUP.\nLIVE.",
+      "body": "Free to build, pay to publish, free to play.",
+      "page": "5 / 5"
+    }
+  }
+]
