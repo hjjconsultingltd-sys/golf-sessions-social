@@ -1,0 +1,18 @@
+[
+  {
+    "id": "w8-02",
+    "template": "match",
+    "size": "square",
+    "fields": {
+      "team_a": "MOORLAND",
+      "team_b": "CASTLE",
+      "score_a": "10.5",
+      "score_b": "9.5",
+      "colour_a": "#14402F",
+      "colour_b": "#7E3A6B",
+      "eyebrow": "DEMO CUP · SESSION 3 · FOURSOMES",
+      "status": "LIVE",
+      "line": "Castle need 3 of the last 4"
+    }
+  }
+]
