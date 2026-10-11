@@ -1,0 +1,59 @@
+[
+  {
+    "id": "w8-03-1",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "FORMATS, EXPLAINED",
+      "headline": "THE MEDAL ROUND.",
+      "body": "Every card its own, counted in strokes, and each team's best cards decide the session.",
+      "page": "1 / 5"
+    }
+  },
+  {
+    "id": "w8-03-2",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "dark": true,
+      "eyebrow": "THE RULE",
+      "headline": "STROKES,\nNOT HOLES.",
+      "body": "Everyone plays their own ball for their own net score. There is no match to win or lose: the card is the whole of it.",
+      "page": "2 / 5"
+    }
+  },
+  {
+    "id": "w8-03-3",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "THE HANDICAP",
+      "headline": "YOUR OWN SHOTS.",
+      "body": "Nobody plays off a difference, because there is no opponent to take shots from. Each player takes their course handicap off the tee they are playing, with the format's allowance on top.",
+      "page": "3 / 5"
+    }
+  },
+  {
+    "id": "w8-03-4",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "dark": true,
+      "eyebrow": "IN THE APP",
+      "headline": "BEST CARDS COUNT.",
+      "body": "You choose how many cards count for each team, so a bigger team cannot win on numbers. A hole left blank is refused rather than guessed.",
+      "page": "4 / 5"
+    }
+  },
+  {
+    "id": "w8-03-5",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "",
+      "headline": "YOUR CUP.\nLIVE.",
+      "body": "Free to build, pay to publish, free to play.",
+      "page": "5 / 5"
+    }
+  }
+]
