@@ -1,0 +1,18 @@
+[
+  {
+    "id": "w10-03",
+    "template": "match",
+    "size": "square",
+    "fields": {
+      "team_a": "VALE",
+      "team_b": "RIDGEWAY",
+      "score_a": "12.5",
+      "score_b": "9.5",
+      "colour_a": "#0F4C81",
+      "colour_b": "#B5651D",
+      "eyebrow": "DEMO CUP · CUP DECIDED",
+      "status": "LIVE",
+      "line": "Vale cannot be caught with 2 out"
+    }
+  }
+]
