@@ -1,0 +1,59 @@
+[
+  {
+    "id": "w10-02-1",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "FORMATS, EXPLAINED",
+      "headline": "GREENSOMES.",
+      "body": "The format to reach for when the handicaps are a long way apart.",
+      "page": "1 / 5"
+    }
+  },
+  {
+    "id": "w10-02-2",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "dark": true,
+      "eyebrow": "THE RULE",
+      "headline": "BOTH DRIVE,\nONE BALL.",
+      "body": "Both partners tee off, the side keeps the better drive, then plays alternate shots with that ball until it is holed.",
+      "page": "2 / 5"
+    }
+  },
+  {
+    "id": "w10-02-3",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "THE HANDICAP",
+      "headline": "60 AND 40.",
+      "body": "The side plays off 60% of the lower course handicap plus 40% of the higher. Not half and half, because the better driver gets used more.",
+      "page": "3 / 5"
+    }
+  },
+  {
+    "id": "w10-02-4",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "dark": true,
+      "eyebrow": "IN THE APP",
+      "headline": "CHANGE IT,\nKEEP THE DRAW.",
+      "body": "Move the 60 or the 40 and the handicaps re-derive on the pairings you already drew. Change the format itself and the draw clears. Both lock once a hole is in.",
+      "page": "4 / 5"
+    }
+  },
+  {
+    "id": "w10-02-5",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "",
+      "headline": "YOUR CUP.\nLIVE.",
+      "body": "Free to build, pay to publish, free to play.",
+      "page": "5 / 5"
+    }
+  }
+]
