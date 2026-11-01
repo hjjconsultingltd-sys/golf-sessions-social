@@ -1,0 +1,18 @@
+[
+  {
+    "id": "w11-03",
+    "template": "match",
+    "size": "square",
+    "fields": {
+      "team_a": "MOORLAND",
+      "team_b": "CASTLE",
+      "score_a": "12",
+      "score_b": "12",
+      "colour_a": "#14402F",
+      "colour_b": "#7E3A6B",
+      "eyebrow": "DEMO CUP · ALL 24 POINTS IN",
+      "status": "FINAL",
+      "line": "The Cup finishes level, 12 each"
+    }
+  }
+]
