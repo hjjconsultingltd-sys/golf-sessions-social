@@ -1,0 +1,59 @@
+[
+  {
+    "id": "w12-02-1",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "FORMATS, EXPLAINED",
+      "headline": "SINGLES.",
+      "body": "1 against 1. The session to send out when the Cup has to be settled rather than built.",
+      "page": "1 / 5"
+    }
+  },
+  {
+    "id": "w12-02-2",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "dark": true,
+      "eyebrow": "THE RULE",
+      "headline": "ONE BALL\nEACH.",
+      "body": "Every player plays their own ball against 1 opponent. Nothing is shared and there is nowhere to hide.",
+      "page": "2 / 5"
+    }
+  },
+  {
+    "id": "w12-02-3",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "THE HANDICAP",
+      "headline": "100% EACH.",
+      "body": "Full allowance, shots off the difference. A 12 against an 18 takes 6 shots, on stroke indexes 1 to 6 and nowhere else.",
+      "page": "3 / 5"
+    }
+  },
+  {
+    "id": "w12-02-4",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "dark": true,
+      "eyebrow": "IN THE APP",
+      "headline": "1 POINT, OR\nEVERY HOLE.",
+      "body": "The event decides how a match pays, once, for the whole Cup. Match play: the match is worth 1 point and can close out 3&2. Every hole counts: each hole is a point of its own and the match runs to the last green.",
+      "page": "4 / 5"
+    }
+  },
+  {
+    "id": "w12-02-5",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "",
+      "headline": "YOUR CUP.\nLIVE.",
+      "body": "Free to build, pay to publish, free to play.",
+      "page": "5 / 5"
+    }
+  }
+]
