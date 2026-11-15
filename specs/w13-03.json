@@ -1,0 +1,18 @@
+[
+  {
+    "id": "w13-03",
+    "template": "match",
+    "size": "square",
+    "fields": {
+      "team_a": "VALE",
+      "team_b": "RIDGEWAY",
+      "score_a": "9.5",
+      "score_b": "8.5",
+      "colour_a": "#0F4C81",
+      "colour_b": "#B5651D",
+      "eyebrow": "DEMO CUP · STABLEFORD ROUND",
+      "status": "LIVE",
+      "line": "Best 4 cards a side count"
+    }
+  }
+]
