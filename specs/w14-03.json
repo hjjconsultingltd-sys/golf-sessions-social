@@ -1,0 +1,18 @@
+[
+  {
+    "id": "w14-03",
+    "template": "match",
+    "size": "square",
+    "fields": {
+      "team_a": "MOORLAND",
+      "team_b": "CASTLE",
+      "score_a": "7.5",
+      "score_b": "6.5",
+      "colour_a": "#14402F",
+      "colour_b": "#7E3A6B",
+      "eyebrow": "DEMO CUP · SESSION 2 OF 3",
+      "status": "LIVE",
+      "line": "1 card scoring out of signal"
+    }
+  }
+]
