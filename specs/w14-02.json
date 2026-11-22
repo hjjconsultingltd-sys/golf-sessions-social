@@ -1,0 +1,59 @@
+[
+  {
+    "id": "w14-02-1",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "FORMATS, EXPLAINED",
+      "headline": "FOURBALLS.",
+      "body": "2 against 2, 4 balls in play, and the session to open a Cup with when half the field has not met the other half.",
+      "page": "1 / 5"
+    }
+  },
+  {
+    "id": "w14-02-2",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "dark": true,
+      "eyebrow": "THE RULE",
+      "headline": "ONE BAD HOLE\nCOSTS NOTHING.",
+      "body": "Everyone plays their own ball. The better net score on each side counts on the hole, so a player in the trees costs their side nothing while their partner's ball is in.",
+      "page": "2 / 5"
+    }
+  },
+  {
+    "id": "w14-02-3",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "THE HANDICAP",
+      "headline": "90% EACH.",
+      "body": "The WHS allowance, which the app defaults to, then shots off the lowest in the match. A society that has always played 100% changes it on the session.",
+      "page": "3 / 5"
+    }
+  },
+  {
+    "id": "w14-02-4",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "dark": true,
+      "eyebrow": "IN THE APP",
+      "headline": "NET, OR\nPOINTS.",
+      "body": "Every player's gross goes in and each player's own card is kept inside the fourball. The session decides whether a hole is won on the better net score or on Stableford points.",
+      "page": "4 / 5"
+    }
+  },
+  {
+    "id": "w14-02-5",
+    "template": "carousel",
+    "size": "portrait",
+    "fields": {
+      "eyebrow": "",
+      "headline": "YOUR CUP.\nLIVE.",
+      "body": "Free to build, pay to publish, free to play.",
+      "page": "5 / 5"
+    }
+  }
+]
